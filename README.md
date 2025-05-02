@@ -2,7 +2,7 @@ Here's your content formatted into a polished `README.md` file for your GitHub r
 
 ---
 
-```markdown
+
 # 🚀 MERN Crash Course - Product Management App
 
 A full-stack web application built with the MERN stack (MongoDB, Express.js, React, Node.js) to demonstrate proficiency in modern web development. This project is a **Product Management App** that allows users to **Create, Read, Update, and Delete (CRUD)** products—showcasing a responsive front-end, robust back-end API, and seamless database integration.
@@ -49,7 +49,7 @@ A full-stack web application built with the MERN stack (MongoDB, Express.js, Rea
 ## 🏗️ Project Structure
 
 
-
+```markdown
 mern-crash-course/
 ├── backend/
 │   ├── config/              # Database configuration
