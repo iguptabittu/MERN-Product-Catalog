@@ -1,7 +1,3 @@
-![image](https://github.com/user-attachments/assets/27c9e5c7-08c0-45cb-b284-2de454d913c8)Here's your content formatted into a polished `README.md` file for your GitHub repository:
-
----
-
 
 # 🚀 MERN Crash Course - Product Management App
 
@@ -39,7 +35,7 @@ A full-stack web application built with the MERN stack (MongoDB, Express.js, Rea
 > Replace these paths with actual screenshots after adding them to the repository.
 
 - **Home Page**  
-  ![Home Page]([screenshots/home.png)
+  ![Home Page](https://github.com/user-attachments/assets/27c9e5c7-08c0-45cb-b284-2de454d913c8)
 
 
 
@@ -91,7 +87,7 @@ Ensure you have the following installed:
    ```bash
    git clone https://github.com/YOUR_GITHUB_USERNAME/mern-crash-course.git
    cd mern-crash-course
-````
+  ```
 
 2. **Install Backend Dependencies**
 
