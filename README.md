@@ -48,7 +48,7 @@ A full-stack web application built with the MERN stack (MongoDB, Express.js, Rea
 
 ## 🏗️ Project Structure
 
-```
+
 
 mern-crash-course/
 ├── backend/
@@ -72,7 +72,7 @@ mern-crash-course/
 ├── package.json             # Project metadata and scripts
 └── README.md                # Project documentation
 
-````
+```
 
 ---
 
@@ -181,15 +181,6 @@ While building this project, I gained hands-on experience in:
 
 ---
 
-## 🔮 Future Enhancements
-
-* ✅ JWT-based authentication
-* 🔍 Search and category filtering
-* 🖼️ Product image uploads (Cloudinary or Multer)
-* 📄 Pagination for product listing
-* 🧪 Unit and integration testing with Jest + React Testing Library
-
----
 
 ## 🤝 Contributing
 
@@ -209,17 +200,10 @@ Please ensure your code follows the project's coding standards and includes rele
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 📬 Contact
 
-* **GitHub**: [YOUR\_GITHUB\_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-* **Twitter**: [@YOUR\_TWITTER\_HANDLE](https://twitter.com/YOUR_TWITTER_HANDLE)
-* **Portfolio**: [YOUR\_PORTFOLIO\_LINK](https://yourportfolio.com)
+* **GitHub**: [iguptabittu] (https://github.com/iguptabittu)
+* **Twitter**: [@iguptabittu](https://twitter.com/iguptabittu)
 
 ---
 
