@@ -1,4 +1,4 @@
-Here's your content formatted into a polished `README.md` file for your GitHub repository:
+![image](https://github.com/user-attachments/assets/27c9e5c7-08c0-45cb-b284-2de454d913c8)Here's your content formatted into a polished `README.md` file for your GitHub repository:
 
 ---
 
@@ -39,7 +39,7 @@ A full-stack web application built with the MERN stack (MongoDB, Express.js, Rea
 > Replace these paths with actual screenshots after adding them to the repository.
 
 - **Home Page**  
-  ![Home Page](screenshots/home.png)
+  ![Home Page]([screenshots/home.png](https://github.com/burakorkmez/mern-crash-course/blob/master/frontend/public/screenshot-for-readme.png)![image](https://github.com/user-attachments/assets/8bffc2a3-5463-4307-a3da-c1934dab55d8)
 
 - **Create Product Page**  
   ![Create Product](screenshots/create.png)
