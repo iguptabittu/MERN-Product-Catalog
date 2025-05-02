@@ -39,10 +39,9 @@ A full-stack web application built with the MERN stack (MongoDB, Express.js, Rea
 > Replace these paths with actual screenshots after adding them to the repository.
 
 - **Home Page**  
-  ![Home Page]([screenshots/home.png](https://github.com/burakorkmez/mern-crash-course/blob/master/frontend/public/screenshot-for-readme.png)![image](https://github.com/user-attachments/assets/8bffc2a3-5463-4307-a3da-c1934dab55d8)
+  ![Home Page]([screenshots/home.png)
 
-- **Create Product Page**  
-  ![Create Product](screenshots/create.png)
+
 
 ---
 
